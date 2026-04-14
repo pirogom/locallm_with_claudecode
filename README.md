@@ -13,6 +13,10 @@ Collection of AdamBench prompt generation results by model using LocalLLM and Cl
   - Model: unsloth/Qwen3.5-397B-A17B-GGUF
   - File: Qwen3.5-397B-A17B-UD-Q4_K_XL.gguf
 
+# gemma-4-31b-it.zip
+  - Model: unsloth/gemma-4-31B-it-GGUF
+  - File: gemma-4-31B-it-UD-Q4_K_XL.gguf
+
 # Prompts
 ## Prompt 1
 Create a React + Typescript app.
